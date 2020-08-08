@@ -4,7 +4,7 @@ This is the place where I try stuff and upload my projects :rofl:
 
 - 🔭 I’m currently trying new stuff :wink:
 - 🌱 I’m currently learning python, ML and WebDev.
-- 📫 How to reach me: [@gautamkrishnar](https://www.linkedin.com/in/malhotrabhavyajot/)
+- 📫 How to reach me: [@malhotrabhavyajot](https://www.linkedin.com/in/malhotrabhavyajot/)
 - ⚡ Fun fact: I :heart: :dog:s
 
 ### Connect with me:
