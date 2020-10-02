@@ -4,9 +4,8 @@ This is the place where I try stuff and upload my projects :smile:
 
 - 🔭 I’m currently trying new stuff :wink:
 - 🌱 I’m currently learning python, ML and WebDev.
-- 📫 How to reach me: [@malhotrabhavyajot](https://www.linkedin.com/in/malhotrabhavyajot/)
-- ⚡ Fun fact: I :heart: :dog:s
-  <p align="right">
+
+  <p align="center">
     <a href="https://github.com/malhotrabhavyajot">
       <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/coding.gif" width="500">
     </a>
