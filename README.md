@@ -12,7 +12,7 @@ This is the place where I try stuff and upload my projects :smile:
       Connect with me:
     </code>
 </h3>
-
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/malhotrabhavyajot/">
     <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
@@ -36,7 +36,7 @@ This is the place where I try stuff and upload my projects :smile:
     Tech stacks used
   </code>
 </h3>
-
+<br>
 <p align="center">
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
