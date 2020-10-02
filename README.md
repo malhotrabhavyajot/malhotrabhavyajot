@@ -12,13 +12,30 @@ This is the place where I try stuff and upload my projects :smile:
       Connect with me:
     </code>
 </h3>
+<!--
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+-->
 
-[<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+  <a href="https://www.linkedin.com/in/malhotrabhavyajot/">
+    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
+  </a>
 
-<br>
+  <a href="mailto:malhotrabhavyajot@gmail.com">
+    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/mail.png" width="30" height="30" hspace="20">
+  </a>
+
+  <a href="https://www.instagram.com/malhotrabhavyajot/">
+    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/instagram.png" width="30" height="30" hspace="20">
+  </a>
+
+  <a href="https://twitter.com/BhavyajotM">
+    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/twitter.png" width="30" height="30" hspace="20">
+  </a>
+</p>
 
 ### Languages and Tools:
 
