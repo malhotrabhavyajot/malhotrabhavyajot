@@ -34,7 +34,6 @@ This is the place where I try stuff and upload my projects :smile:
       <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/twitter.png" width="30" height="30" hspace="20">
     </a>
   </p>
-  <br>
 
 <h3 align="center">
   <code>
