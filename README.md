@@ -10,12 +10,13 @@ This is the place where I try stuff and upload my projects :smile:
       <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/coding.gif" width="500">
     </a>
   </p>
+
   <h3 align="center">
       <code>
         Connect with me:
       </code>
   </h3>
-  <br>
+
   <p align="center">
     <a href="https://www.linkedin.com/in/malhotrabhavyajot/">
       <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
@@ -33,6 +34,7 @@ This is the place where I try stuff and upload my projects :smile:
       <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/twitter.png" width="30" height="30" hspace="20">
     </a>
   </p>
+  <br>
 
 <h3 align="center">
   <code>
