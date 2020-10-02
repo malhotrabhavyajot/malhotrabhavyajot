@@ -31,7 +31,11 @@ This is the place where I try stuff and upload my projects :smile:
   </a>
 </p>
 
-### Languages and Tools:
+<h3 align="center">
+  <code>
+    Tech stacks used
+  </code>
+</h3>
 
 <p align="center">
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
