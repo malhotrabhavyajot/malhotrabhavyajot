@@ -6,30 +6,34 @@ This is the place where I try stuff and upload my projects :smile:
 - 🌱 I’m currently learning python, ML and WebDev.
 - 📫 How to reach me: [@malhotrabhavyajot](https://www.linkedin.com/in/malhotrabhavyajot/)
 - ⚡ Fun fact: I :heart: :dog:s
+  <p align="right">
+    <a href="https://github.com/malhotrabhavyajot">
+      <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/coding.gif" width="500">
+    </a>
+  </p>
+  <h3 align="center">
+      <code>
+        Connect with me:
+      </code>
+  </h3>
+  <br>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/malhotrabhavyajot/">
+      <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
+    </a>
 
-<h3 align="center">
-    <code>
-      Connect with me:
-    </code>
-</h3>
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/malhotrabhavyajot/">
-    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/linkedin.png" width="30" height="30" hspace="20">
-  </a>
+    <a href="mailto:malhotrabhavyajot@gmail.com">
+      <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/mail.png" width="30" height="30" hspace="20">
+    </a>
 
-  <a href="mailto:malhotrabhavyajot@gmail.com">
-    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/mail.png" width="30" height="30" hspace="20">
-  </a>
+    <a href="https://www.instagram.com/malhotrabhavyajot/">
+      <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/instagram.png" width="30" height="30" hspace="20">
+    </a>
 
-  <a href="https://www.instagram.com/malhotrabhavyajot/">
-    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/instagram.png" width="30" height="30" hspace="20">
-  </a>
-
-  <a href="https://twitter.com/BhavyajotM">
-    <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/twitter.png" width="30" height="30" hspace="20">
-  </a>
-</p>
+    <a href="https://twitter.com/BhavyajotM">
+      <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/twitter.png" width="30" height="30" hspace="20">
+    </a>
+  </p>
 
 <h3 align="center">
   <code>
@@ -56,7 +60,6 @@ This is the place where I try stuff and upload my projects :smile:
 <img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
-<br>
 <br>
 
 <p align="center">
