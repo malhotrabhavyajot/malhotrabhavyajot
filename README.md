@@ -1,5 +1,4 @@
  <img src="https://komarev.com/ghpvc/?username=malhotrabhavyajot" alt="malhotrabhavyajot"/>
-<br />
 <p align="center">
     <a href="https://github.com/malhotrabhavyajot">
       <img src="https://github.com/malhotrabhavyajot/malhotrabhavyajot/blob/master/assets/coding.gif" width="500">
