@@ -10,7 +10,8 @@ This is the place where I try stuff and upload my projects :smile:
 
 - 🔭 I’m currently trying new stuff :wink:
 - 🌱 I’m currently learning python, ML and WebDev.
-
+<img src="https://komarev.com/ghpvc/?username=malhotrabhavyajot" alt="malhotrabhavyajot"/>
+<br />
   <h3 align="center">
       <code>
         Connect with me:
