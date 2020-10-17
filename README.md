@@ -14,7 +14,7 @@ This is the place where I try stuff and upload my projects :smile:
 
   <h3 align="center">
       <code>
-        Connect with me:
+        Connect with Me :
       </code>
   </h3>
 
@@ -38,7 +38,7 @@ This is the place where I try stuff and upload my projects :smile:
 
 <h3 align="center">
   <code>
-    Tech stacks used
+    Tech Stacks Used :
   </code>
 </h3>
 <br>
@@ -68,7 +68,7 @@ This is the place where I try stuff and upload my projects :smile:
 
 <h3 align="center">
   <code>
-    My GitHub Contributions
+    My GitHub Contributions :
   </code>
 </h3>
 <br>
@@ -88,6 +88,9 @@ This is the place where I try stuff and upload my projects :smile:
   <img src="https://profile-counter.glitch.me/malhotrabhavyajot/count.svg" />
 </p>
 
+<!-- Dinosaur -->
+<a href="#"><img height="202"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot" /></a>
+<a href="#"><img align="right" height="200" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
