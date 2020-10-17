@@ -66,7 +66,7 @@ This is the place where I try stuff and upload my projects :smile:
 <br>
 
 <p align="center">
- <img height="202" width="404" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&count_private=true&include_all_commits"/>
+ <img height="252" width="404" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&count_private=true&include_all_commits"/>
 </p>
 
 <p> 
