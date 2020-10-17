@@ -90,7 +90,7 @@ This is the place where I try stuff and upload my projects :smile:
 
 <p align="center">
   <a href="https://github.com/malhotrabhavyajot">
-    <img src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
   </a>
 </p>
 
