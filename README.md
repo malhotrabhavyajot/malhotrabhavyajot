@@ -70,9 +70,7 @@ This is the place where I try stuff and upload my projects :smile:
 </h3>
 <br>
 
-
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/malhotrabhavyajot.gif?z=6)](https://github4life.herokuapp.com/malhotrabhavyajot)
+[![GitHub Game of Life](https://github4life.herokuapp.com/malhotrabhavyajot.gif?z=6)]
 
 
 
