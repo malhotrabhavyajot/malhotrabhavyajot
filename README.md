@@ -68,10 +68,12 @@ This is the place where I try stuff and upload my projects :smile:
     <img src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true" />
   </a>
 </p>
+
 <p align="center"> 
  <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+  <img src="https://profile-counter.glitch.me/malhotrabhavyajot/count.svg" />
 </p>
+
 [website]: https://sourcerer.io/malhotrabhavyajot
 [twitter]: https://twitter.com/BhavyajotM
 [instagram]: https://www.instagram.com/malhotrabhavyajot/
