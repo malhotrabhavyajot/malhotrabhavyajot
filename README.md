@@ -65,7 +65,7 @@ This is the place where I try stuff and upload my projects :smile:
 <br>
 <br>
 
-<p align="center">
+<p>
  <img height="252" width="404" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&count_private=true&include_all_commits"/>
 </p>
 
@@ -83,7 +83,7 @@ This is the place where I try stuff and upload my projects :smile:
   <img src="https://profile-counter.glitch.me/malhotrabhavyajot/count.svg" />
 </p>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="520" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 [website]: https://malhotrabhavyajot.github.io/
 [twitter]: https://twitter.com/BhavyajotM
