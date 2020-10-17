@@ -70,7 +70,7 @@ This is the place where I try stuff and upload my projects :smile:
 </p>
 
 <p> 
- <img height="202" width="404" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact&langs_count=8"/>
+ <img height="202" width="404" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact&langs_count=4"/>
 </p>
 
 
@@ -83,7 +83,7 @@ This is the place where I try stuff and upload my projects :smile:
   <img src="https://profile-counter.glitch.me/malhotrabhavyajot/count.svg" />
 </p>
 
-<img height="520" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 [website]: https://malhotrabhavyajot.github.io/
 [twitter]: https://twitter.com/BhavyajotM
