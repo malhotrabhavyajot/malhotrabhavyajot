@@ -66,11 +66,11 @@ This is the place where I try stuff and upload my projects :smile:
 <br>
 
 <p>
- <img height="202" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&count_private=true&include_all_commits"/>
+ <img height="202" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&count_private=true&include_all_commits"/>
 </p>
 
 <p> 
- <img height="202" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact&langs_count=4"/>
+ <img height="202" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact&langs_count=4"/>
 </p>
 
 
