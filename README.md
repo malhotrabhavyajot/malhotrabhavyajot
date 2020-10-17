@@ -82,7 +82,7 @@ This is the place where I try stuff and upload my projects :smile:
 </p>
 
 <p> 
- <img height="202" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/>
+ <img height="202" width="404" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/>
 </p>
 
 
