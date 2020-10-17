@@ -74,6 +74,9 @@ This is the place where I try stuff and upload my projects :smile:
   <img src="https://profile-counter.glitch.me/malhotrabhavyajot/count.svg" />
 </p>
 
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
 [website]: https://sourcerer.io/malhotrabhavyajot
 [twitter]: https://twitter.com/BhavyajotM
 [instagram]: https://www.instagram.com/malhotrabhavyajot/
