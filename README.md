@@ -78,15 +78,14 @@ This is the place where I try stuff and upload my projects :smile:
 
 
 <p align="center">
-  <a href="https://github.com/malhotrabhavyajot">
-    <img src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true&include_all_commits=true&theme=radical"/>
-  </a>
+ <img height="202" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true&include_all_commits=true&theme=radical"/>
+</p>
+
+<p> 
+ <img height="202"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/>
 </p>
 
 
-<p align="center"> 
- <img height="202"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/>
-</p>
 <p align="center"> 
  <img height="200" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game">
 </p>
