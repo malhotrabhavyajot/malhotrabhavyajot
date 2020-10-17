@@ -63,13 +63,16 @@ This is the place where I try stuff and upload my projects :smile:
 </p>
 <br>
 
+<h3 align="center">
+  <code>
+    My GitHub Contributions
+  </code>
+</h3>
+<br>
 
 
-<b>My GitHub Contributions</b>
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/malhotrabhavyajot.gif?z=6)](https://github4life.herokuapp.com/malhotrabhavyajot)
-
-
 
 
 
