@@ -70,14 +70,13 @@ This is the place where I try stuff and upload my projects :smile:
 ## Quick Overview 📝
     
 <a href="https://github.com/malhotrabhavyajot/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=malhotrabhavyajot&show_icons=true&include_all_commits=true&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&include_all_commits=true&theme=radical"/>
 </a>
 
 
-<a href="https://github.com/malhotrabhavyajot/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=malhotrabhavyajot&show_icons=true&hide_border=true&theme=radical" />
+<a href="https://github.com/malhotrabhavyajot/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact&theme=radical"/>
 </a>
-
 ###
 
 <b>My GitHub Contributions</b>
@@ -90,7 +89,7 @@ This is the place where I try stuff and upload my projects :smile:
 
 <p align="center">
   <a href="https://github.com/malhotrabhavyajot">
-    <img src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true&include_all_commits=true&theme=radical"/>
   </a>
 </p>
 
