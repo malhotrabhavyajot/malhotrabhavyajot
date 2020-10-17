@@ -78,7 +78,7 @@ This is the place where I try stuff and upload my projects :smile:
 
 
 <p align="center">
- <img height="202" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true&include_all_commits=true&theme=radical"/>
+ <img height="202" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true"/>
 </p>
 
 <p> 
