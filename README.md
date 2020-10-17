@@ -75,7 +75,7 @@ This is the place where I try stuff and upload my projects :smile:
 
 
 <a href="https://github.com/malhotrabhavyajot/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=malhotrabhavyajot&show_icons=true&hide_border=true&include_all_commits=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=malhotrabhavyajot&show_icons=true&hide_border=true&theme=radical" />
 </a>
 
 ###
