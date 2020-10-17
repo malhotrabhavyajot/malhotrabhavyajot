@@ -83,14 +83,15 @@ This is the place where I try stuff and upload my projects :smile:
   </a>
 </p>
 
+
+<!-- Dinosaur -->
+<a href="#"><img height="202"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/></a>
+<a href="#"><img align="right" height="200" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
+
 <p align="center"> 
  <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/malhotrabhavyajot/count.svg" />
 </p>
-
-<!-- Dinosaur -->
-<a href="#"><img height="202"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot" /></a>
-<a href="#"><img align="right" height="200" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game"></a>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
