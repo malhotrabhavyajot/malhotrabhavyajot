@@ -42,6 +42,7 @@ This is the place where I try stuff and upload my projects :smile:
   </code>
 </h3>
 <br>
+
 <p align="center">
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -63,11 +64,11 @@ This is the place where I try stuff and upload my projects :smile:
 </p>
 <br>
 
-<h3 align="center">
+<p align="center">
   <code>
     My GitHub Contributions
   </code>
-</h3>
+</p>
 <br>
 
 ![GitHub Game of Life](https://github4life.herokuapp.com/malhotrabhavyajot.gif?z=6)
@@ -87,7 +88,7 @@ This is the place where I try stuff and upload my projects :smile:
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-[website]: https://sourcerer.io/malhotrabhavyajot
+[website]: https://malhotrabhavyajot.github.io/
 [twitter]: https://twitter.com/BhavyajotM
 [instagram]: https://www.instagram.com/malhotrabhavyajot/
 [linkedin]: https://www.linkedin.com/in/malhotrabhavyajot
