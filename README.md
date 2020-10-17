@@ -63,6 +63,30 @@ This is the place where I try stuff and upload my projects :smile:
 </p>
 <br>
 
+
+
+<!--Github Progess bar-->
+
+## Quick Overview 📝
+    
+<a href="https://github.com/hackcoderr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=malhotrabhavyajot&show_icons=true&include_all_commits=true&theme=radical" alt="Bhavya's github stats" />
+</a>
+<a href="https://github.com/hackcoderr/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact&theme=radical" />
+</a>
+
+###
+
+<b>My GitHub contributions as a Game of Life</b>
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/malhotrabhavyajot.gif?z=6)](https://github4life.herokuapp.com/malhotrabhavyajot)
+
+##
+
+
+
 <p align="center">
   <a href="https://github.com/malhotrabhavyajot">
     <img src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true&hide_border=true" />
