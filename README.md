@@ -64,18 +64,6 @@ This is the place where I try stuff and upload my projects :smile:
 </p>
 <br>
 <br>
-<br>
-
-<h3 align="center">
-  <code>
-    My GitHub Contributions :
-  </code>
-</h3>
-<br>
-
-
-![GitHub Game of Life](https://github4life.herokuapp.com/malhotrabhavyajot.gif?z=6)
-
 
 <p align="center">
  <img height="202" width="404" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true"/>
