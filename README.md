@@ -78,11 +78,11 @@ This is the place where I try stuff and upload my projects :smile:
 
 
 <p align="center">
- <img height="202" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true"/>
+ <img height="202" width="100" align="left" src="https://github-readme-stats.vercel.app/api?username=malhotrabhavyajot&show_icons=true"/>
 </p>
 
 <p> 
- <img height="202"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/>
+ <img height="202" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/>
 </p>
 
 
