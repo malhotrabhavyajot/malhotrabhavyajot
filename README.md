@@ -88,7 +88,7 @@ This is the place where I try stuff and upload my projects :smile:
  <img height="202"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malhotrabhavyajot&layout=compact"/>
 </p>
 <p align="center"> 
- <img align="right" height="200" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game">
+ <img height="200" src="https://raw.githubusercontent.com/CosasDePuma/cosasdepuma/master/.github/img/dino.gif" alt="Dinosaur Game">
 </p>
 
 <p align="center"> 
