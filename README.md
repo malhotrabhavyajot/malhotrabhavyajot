@@ -63,6 +63,7 @@ This is the place where I try stuff and upload my projects :smile:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </p>
 <br>
+<br>
 
 <h3 align="center">
   <code>
@@ -71,9 +72,9 @@ This is the place where I try stuff and upload my projects :smile:
 </h3>
 <br>
 
-<p align="center">
+
 ![GitHub Game of Life](https://github4life.herokuapp.com/malhotrabhavyajot.gif?z=6)
-</p>
+
 
 <p align="center">
   <a href="https://github.com/malhotrabhavyajot">
